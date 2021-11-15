@@ -1,0 +1,2 @@
+# readme del repositorio
+información
